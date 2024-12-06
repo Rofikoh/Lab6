@@ -58,4 +58,3 @@ Hasil Program
 ![HasilLab6_1](https://github.com/user-attachments/assets/47dc97a1-3190-4cbd-a143-2ae19aabe394)
 
 ![HasilLab6_2](https://github.com/user-attachments/assets/44b81ab6-e6e4-4d08-8617-725f4c96cbc5)
-Flowchart
