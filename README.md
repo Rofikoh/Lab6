@@ -34,9 +34,28 @@ Jika tidak ditemukan, akan ditampilkan pesan bahwa data tidak ditemukan.
 
 Fungsi ubah(nama): 
 Fungsi ini mencari mahasiswa dengan nama yang diberikan. Jika ditemukan, pengguna akan diminta memasukkan nilai baru, dan nilai lama akan diganti dengan nilai baru. 
+
 Jika tidak ditemukan, akan ditampilkan pesan bahwa data tidak ditemukan.
 
 
 Loop Utama: 
 Loop while True menjalankan program secara berulang hingga pengguna memilih untuk keluar. Pada setiap iterasi, 
 program menampilkan menu pilihan dan meminta pengguna untuk memilih tindakan yang ingin dilakukan.
+
+Flowchart
+
+![FlowchartLab6](https://github.com/user-attachments/assets/306165fe-198c-4123-9cf5-095568a8b508)
+
+Kode Program
+
+![TugasLap6_1](https://github.com/user-attachments/assets/ba51b083-8894-4e70-94df-f2100690cf47)
+
+![TugasLap6_2](https://github.com/user-attachments/assets/d24a9433-ac8b-4823-b4b3-13e951cd26d3)
+
+
+Hasil Program
+
+![HasilLab6_1](https://github.com/user-attachments/assets/47dc97a1-3190-4cbd-a143-2ae19aabe394)
+
+![HasilLab6_2](https://github.com/user-attachments/assets/44b81ab6-e6e4-4d08-8617-725f4c96cbc5)
+Flowchart
